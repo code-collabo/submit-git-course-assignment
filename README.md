@@ -8,17 +8,17 @@ Parent repo: [code-collabo/git-and-github-for-collaboration](https://github.com/
 
 This repository is where students who enroll for the git and github for collaboration course submit their solutions for the course assignments/tasks.
 
-You can [access the video lectures live on the gitbook resource using this link](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
+[Enroll in the git and github for collaboration course using this link](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
 
 ## Students 🎉
-These awesome persons are either currently taking or have completed the Git and Github for collaboration course. You are welcome to [take the training with us](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
+These awesome persons are either currently taking or have completed the Git and Github for collaboration course.
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Ifycode"><img src="https://avatars.githubusercontent.com/u/45185388?v=4?s=100" width="100px;" alt="Obiagba Mary Ifeoma"/><br /><sub><b>Obiagba Mary Ifeoma</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training/commits?author=Ifycode" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/oyenuga17"><img src="https://avatars.githubusercontent.com/u/64274826?v=4?s=100" width="100px;" alt="oyenuga17"/><br /><sub><b>oyenuga17</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training/commits?author=oyenuga17" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/Dkingofcode"><img src="https://avatars.githubusercontent.com/u/91491738?v=4?s=100" width="100px;" alt="David Oladepo"/><br /><sub><b>David Oladepo</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training/commits?author=Dkingofcode" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/Danbaba1"><img src="https://avatars.githubusercontent.com/u/98762494?v=4?s=100" width="100px;" alt="Danbaba1"/><br /><sub><b>Danbaba1</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training/commits?author=Danbaba1" title="Documentation">📖</a></td>
