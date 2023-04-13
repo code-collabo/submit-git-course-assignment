@@ -1,20 +1,17 @@
-# Git and Github for collaboration training
+# Git and Github for collaboration course (assignment submission)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 #
-> **Note**
->
-> This repository is where training participants submit there solutions to, which will be reviewed by the training instructor.
+Parent repo: [code-collabo/git-and-github-for-collaboration](https://github.com/code-collabo/git-and-github-for-collaboration)
 
-#
-> **Note**
->
-> You can [access the video lectures live on the gitbook resource](https://obiagba-mary.gitbook.io/git-and-github-training-exercises). You can also access the video content from the [youtube playlist](https://youtube.com/playlist?list=PLMDhbo3xlD1ESa1_9WN4yG7bGDDksEQx7), but we recommend you access the videos from the gitbook resource as it is more engaging. The gitbook resource also contains guidance for communicating with the instructor along the way.
+This repository is where students who enroll for the git and github for collaboration course submit their solutions for the course assignments/tasks.
 
-## Training participants 🎉
-These amazing people are either currently taking or have completed the Git and Github for collaboration training. You are welcome to [take the training with us](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
+You can [access the video lectures live on the gitbook resource using this link](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
+
+## Students 🎉
+These awesome persons are either currently taking or have completed the Git and Github for collaboration course. You are welcome to [take the training with us](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -36,10 +33,4 @@ These amazing people are either currently taking or have completed the Git and G
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## Wish to contribute?
-Do you wish to contribute to building or improving the content of the Git and github for collaboration training resource? Checkout the [contributing guidelines page](https://obiagba-mary.gitbook.io/git-and-github-training/contributors-guide/contributing-guidelines) for how to get started with contributing to the project.
-
-## Contributors ✨
-Thanks to [our wonderful contributors](https://github.com/Ifycode/git-github-training-resource#contributors-) to the [Git & Github for collaboration training](https://github.com/Ifycode/git-github-training) and [learning resource](https://github.com/Ifycode/git-github-training-resource) projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key). Contributions of any kind welcome!
 
