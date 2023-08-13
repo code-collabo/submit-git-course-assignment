@@ -8,6 +8,8 @@ Parent repo: [code-collabo/git-and-github-for-collaboration](https://github.com/
 
 This repository is where students who enroll for the git and github for collaboration course submit their solutions for the course assignments/tasks.
 
+This is test project
+
 [Enroll in the git and github for collaboration course using this link](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
 
 ## Students 🎉
